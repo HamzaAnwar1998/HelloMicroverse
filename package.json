@@ -18,5 +18,10 @@
   "homepage": "https://github.com/HamzaAnwar1998/HelloMicroverse#readme",
   "dependencies": {
     "get-google-fonts": "^1.2.2"
+  },
+  "devDependencies": {
+    "stylelint": "^14.4.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0"
   }
 }
